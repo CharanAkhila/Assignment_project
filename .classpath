@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="selenium-server-4.6.0.jar"/>
+	<classpathentry kind="lib" path="ashot-1.5.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Nani/.p2/pool/plugins/org.testng_7.4.0.r202105021533.jar" sourcepath="C:/Users/Nani/.p2/pool/plugins/org.testng.source_7.4.0.r202105021533.jar"/>
+	<classpathentry kind="lib" path="/SELINIUM_AUTOMATION/selenium-server-4.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nani/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Nani/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59-javadoc.jar!/"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-support"/>
+			<attribute name="maven.version" value="3.141.59"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
